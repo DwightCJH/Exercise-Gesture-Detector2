@@ -6,7 +6,7 @@ Detect hand gestures (thumbs up/down).
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Kelvinpcw/test
+   git clone https://github.com/DwightCJH/Exercise-Gesture-Detector2
    ```
 
 2. Create a virtual environment:
